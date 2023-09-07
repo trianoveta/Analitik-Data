@@ -1,1 +1,309 @@
 https://careerfoundry.com/en/blog/data-analytics/what-is-data-analytics/
+
+1. Apa itu analisis data?
+Sebagian besar perusahaan mengumpulkan banyak data sepanjang waktu—namun, dalam bentuk mentahnya, data ini tidak berarti apa-apa. Di sinilah peran analisis data. Analisis data adalah proses menganalisis data mentah untuk mendapatkan wawasan yang bermakna dan dapat ditindaklanjuti , yang kemudian digunakan untuk memberi informasi dan mendorong keputusan bisnis yang cerdas.
+
+Seorang analis data akan mengekstraksi data mentah, mengaturnya, dan kemudian menganalisisnya, mengubahnya dari angka-angka yang tidak dapat dipahami menjadi informasi yang koheren dan dapat dipahami. Setelah data diinterpretasikan, analis data kemudian akan menyampaikan temuannya dalam bentuk saran atau rekomendasi mengenai langkah perusahaan selanjutnya.
+
+Anda dapat menganggap analisis data sebagai bentuk intelijen bisnis, yang digunakan untuk memecahkan masalah dan tantangan spesifik dalam suatu organisasi. Ini semua tentang menemukan pola dalam kumpulan data yang dapat memberi tahu Anda sesuatu yang berguna dan relevan tentang area bisnis tertentu—misalnya, bagaimana kelompok pelanggan tertentu berperilaku, atau bagaimana karyawan terlibat dengan alat tertentu.
+
+Analisis data membantu Anda memahami masa lalu dan memprediksi tren dan perilaku di masa depan; daripada mendasarkan keputusan dan strategi Anda pada dugaan, Anda membuat pilihan berdasarkan informasi yang diberikan oleh data.
+
+Bagaimana bisnis menggunakan analisis data
+Berbekal wawasan yang diambil dari data, bisnis dan organisasi dapat mengembangkan pemahaman yang lebih mendalam tentang audiens, industri, dan perusahaan mereka secara keseluruhan—dan, sebagai hasilnya, lebih siap untuk mengambil keputusan dan membuat rencana ke depan. .
+
+Mengerti lebih baik dengan menonton? Pelajari lebih lanjut dasar-dasar analisis data dari Will dalam video berikut:
+
+
+2. Apa perbedaan antara analisis data dan ilmu data?
+Anda akan menemukan bahwa istilah “ilmu data” dan “analisis data” cenderung digunakan secara bergantian. Namun, keduanya adalah dua bidang yang berbeda dan menunjukkan dua jalur karier yang berbeda. Terlebih lagi, masing-masing mempunyai dampak yang sangat berbeda terhadap bisnis atau organisasi.
+
+Terlepas dari perbedaannya, penting untuk menyadari bahwa ilmu data dan analisis data bekerja sama, dan keduanya memberikan kontribusi yang sangat berharga bagi bisnis.
+
+Anda dapat mempelajari lebih lanjut perbedaan antara ilmuwan data dan analis data dalam panduan kami , namun untuk saat ini mari kita bahas dua perbedaan utama.
+
+Perbedaan utama 1: Apa yang mereka lakukan dengan data tersebut
+Salah satu perbedaan utama antara ilmuwan data dan analis data terletak pada apa yang mereka lakukan terhadap data dan hasil yang mereka capai.
+
+Seorang analis data akan berusaha menjawab pertanyaan spesifik atau mengatasi tantangan tertentu yang telah diidentifikasi dan diketahui oleh bisnis. Untuk melakukan hal ini, mereka memeriksa kumpulan data besar dengan tujuan mengidentifikasi tren dan pola. Mereka kemudian “memvisualisasikan” temuan mereka dalam bentuk bagan, grafik, dan dasbor. Visualisasi ini dibagikan kepada pemangku kepentingan utama dan digunakan untuk membuat keputusan strategis berdasarkan informasi dan data.
+
+Seorang data scientist, di sisi lain, mempertimbangkan pertanyaan apa saja yang seharusnya atau dapat diajukan oleh bisnis. Mereka merancang proses baru untuk pemodelan data , menulis algoritma, merancang model prediktif, dan menjalankan analisis khusus. Misalnya: Mereka mungkin membuat mesin untuk memanfaatkan kumpulan data dan mengotomatiskan tindakan tertentu berdasarkan data tersebut—dan, dengan pemantauan dan pengujian terus-menerus, serta ketika pola dan tren baru muncul, tingkatkan dan optimalkan mesin tersebut sedapat mungkin.
+
+Singkatnya: analis data menangani dan memecahkan pertanyaan-pertanyaan terpisah tentang data, sering kali berdasarkan permintaan, mengungkapkan wawasan yang dapat ditindaklanjuti oleh pemangku kepentingan lainnya, sementara ilmuwan data membangun sistem untuk mengotomatisasi dan mengoptimalkan fungsi bisnis secara keseluruhan.
+
+Perbedaan utama 2: Alat dan keterampilan
+Perbedaan utama lainnya terletak pada alat dan keterampilan yang dibutuhkan untuk setiap peran.
+
+Analis data biasanya diharapkan mahir dalam perangkat lunak seperti Excel dan, dalam beberapa kasus, kueri dan bahasa pemrograman seperti SQL , R, SAS, dan Python . Analis harus terbiasa menggunakan alat dan bahasa tersebut untuk melakukan penambangan data, analisis statistik, manajemen basis data, dan pelaporan.
+
+Ilmuwan data, di sisi lain, diharapkan mahir dalam Hadoop, Java, Python, pembelajaran mesin, dan pemrograman berorientasi objek, serta pengembangan perangkat lunak, penambangan data, dan analisis data.
+
+3. Apa saja jenis-jenis analisis data?
+Sekarang kita memiliki definisi kerja analisis data, mari kita jelajahi empat jenis utama analisis data: deskriptif , diagnostik , prediktif , dan preskriptif .
+
+Empat jenis utama analisis data: Deskriptif, diagnostik, prediktif, dan preskriptif
+Analisis deskriptif
+Analisis deskriptif adalah jenis analisis sederhana tingkat permukaan yang melihat apa yang terjadi di masa lalu. Dua teknik utama yang digunakan dalam analisis deskriptif adalah agregasi data dan penambangan data—jadi, analis data pertama-tama mengumpulkan data dan menyajikannya dalam format ringkasan (itulah bagian agregasi) dan kemudian “menambang” data untuk menemukan pola.
+
+Data tersebut kemudian disajikan sedemikian rupa sehingga mudah dipahami oleh khalayak luas (bukan hanya pakar data). Penting untuk dicatat bahwa analitik deskriptif tidak mencoba menjelaskan data historis atau membangun hubungan sebab-akibat; pada tahap ini, yang penting hanyalah menentukan dan mendeskripsikan “apa”. Analisis deskriptif mengacu pada konsep statistik deskriptif .
+
+Analisis diagnostik
+Analisis deskriptif melihat pada “apa”, sedangkan analisis diagnostik mengeksplorasi “mengapa” . Saat menjalankan analitik diagnostik, analis data pertama-tama akan berusaha mengidentifikasi anomali dalam data—yaitu, segala sesuatu yang tidak dapat dijelaskan oleh data yang ada di depannya. Misalnya: Jika data menunjukkan terjadi penurunan penjualan secara tiba-tiba pada bulan Maret, analis data perlu menyelidiki penyebabnya.
+
+Untuk melakukan hal ini, mereka akan memulai apa yang dikenal sebagai fase penemuan, yaitu mengidentifikasi sumber data tambahan yang mungkin memberi tahu mereka lebih banyak tentang mengapa anomali tersebut muncul. Terakhir, analis data akan mencoba mengungkap hubungan sebab akibat—misalnya, melihat peristiwa apa pun yang mungkin berkorelasi atau berhubungan dengan penurunan penjualan. Pada tahap ini, analis data dapat menggunakan teori probabilitas, analisis regresi, pemfilteran, dan analisis data deret waktu.
+
+Pelajari lebih lanjut di panduan kami untuk analisis diagnostik .
+
+Analisis prediktif
+Seperti namanya, analisis prediktif mencoba memprediksi apa yang mungkin terjadi di masa depan. Di sinilah para analis data mulai menghasilkan wawasan berbasis data yang dapat ditindaklanjuti dan dapat digunakan oleh perusahaan untuk menentukan langkah selanjutnya.
+
+Analisis prediktif memperkirakan kemungkinan hasil di masa depan berdasarkan data historis dan teori probabilitas, dan meskipun analisis ini tidak pernah sepenuhnya akurat, analisis ini menghilangkan banyak dugaan dalam pengambilan keputusan bisnis utama.
+
+Analisis prediktif dapat digunakan untuk memperkirakan segala macam hasil—mulai dari produk apa yang paling populer pada waktu tertentu, hingga seberapa besar kemungkinan peningkatan atau penurunan pendapatan perusahaan dalam periode tertentu. Pada akhirnya, analisis prediktif digunakan untuk meningkatkan peluang bisnis untuk “mencapai sasaran” dan mengambil tindakan yang paling tepat.
+
+Pelajari lebih lanjut tentang ini di panduan lengkap kami untuk analisis prediktif .
+
+Analisis preskriptif
+Berdasarkan analisis prediktif, analisis preskriptif memberikan saran mengenai tindakan dan keputusan yang harus diambil .
+
+Dengan kata lain, analisis preskriptif menunjukkan kepada Anda bagaimana Anda dapat memanfaatkan hasil yang telah diprediksi. Saat melakukan analisis preskriptif, analis data akan mempertimbangkan serangkaian kemungkinan skenario dan menilai berbagai tindakan yang mungkin diambil perusahaan.
+
+Analisis preskriptif adalah salah satu jenis analisis yang lebih kompleks, dan mungkin melibatkan penggunaan algoritme, pembelajaran mesin, dan prosedur pemodelan komputasi. Namun, penggunaan analitik preskriptif yang efektif dapat berdampak besar pada proses pengambilan keputusan perusahaan dan, pada akhirnya, pada keuntungan perusahaan.
+
+Jenis analisis yang Anda lakukan juga akan bergantung pada jenis data yang Anda gunakan. Jika Anda belum terbiasa, ada baiknya mempelajari empat tingkat pengukuran data: nominal, ordinal, interval, dan rasio .
+
+4. Apa saja studi kasus analisis data di dunia nyata?
+Sekarang mari kita lihat lebih dekat cara kerja analisis data dengan beberapa studi kasus di dunia nyata.
+
+Studi kasus analisis data: Layanan Kesehatan
+Salah satu bidang di mana analisis data mempunyai dampak besar adalah sektor kesehatan. Junbo Son , seorang peneliti dari Universitas Delaware, telah merancang sebuah sistem yang membantu pasien asma untuk mengelola kondisi mereka dengan lebih baik menggunakan inhaler berkemampuan bluetooth dan algoritma analisis data khusus.
+
+Jadi bagaimana cara kerjanya? Pertama, data dikumpulkan melalui sensor Bluetooth yang dipasangkan pengguna pada inhaler asma mereka. Setiap kali pasien menggunakan inhalernya, sensor mengirimkan data penggunaan ini ke ponsel cerdasnya. Data ini kemudian dikirim ke server melalui jaringan nirkabel yang aman, melalui algoritma Smart Asthma Management (SAM) yang dirancang khusus.
+
+Seiring berjalannya waktu, algoritme unik ini membantu memberikan gambaran setiap pasien, memberikan wawasan berharga mengenai demografi pasien, perilaku pasien yang unik—seperti kapan mereka cenderung berolahraga dan bagaimana hal ini memengaruhi penggunaan inhaler mereka—serta kepekaan setiap pasien terhadap lingkungan. pemicu asma. Hal ini sangat berguna ketika mendeteksi peningkatan penggunaan inhaler yang berbahaya; sistem SAM berbasis data dapat mengidentifikasi peningkatan tersebut jauh lebih cepat dibandingkan kemampuan pasien.
+
+Terlebih lagi, sistem SAM terbukti mengungguli model tradisional, dengan tingkat alarm palsu 10-20% lebih rendah dibandingkan model saat ini, dan tingkat kesalahan deteksi 40-50% lebih rendah.
+
+Studi kasus ini menyoroti perbedaan yang dapat dihasilkan oleh analisis data dalam menyediakan layanan kesehatan yang efektif dan personal. Dengan mengumpulkan dan menganalisis data yang tepat, profesional kesehatan dapat menawarkan dukungan yang disesuaikan dengan kebutuhan individu setiap pasien dan karakteristik unik dari berbagai kondisi kesehatan—sebuah pendekatan yang dapat mengubah hidup dan berpotensi menyelamatkan nyawa.
+
+Anda dapat mempelajari lebih lanjut tentang studi kasus ini dalam artikel jurnal berikut: Kerangka Analisis Data untuk Manajemen Asma Cerdas Berbasis Sistem Informasi Kesehatan Jarak Jauh dengan Inhaler Pribadi Berkemampuan Bluetooth .
+
+Studi kasus analisis data: Netflix
+Contoh nyata lain dari penerapan analisis data adalah contoh yang mungkin sudah Anda kenal: rekomendasi tontonan yang dipersonalisasi yang disediakan oleh Netflix. Jadi bagaimana Netflix membuat rekomendasi ini, dan apa dampak fitur ini terhadap kesuksesan bisnisnya?
+
+Seperti yang sudah Anda duga, semuanya dimulai dengan pengumpulan data. Netflix mengumpulkan semua jenis data dari 163 juta pelanggan globalnya—termasuk apa yang pengguna tonton dan kapan, perangkat apa yang mereka gunakan, apakah mereka menjeda acara dan melanjutkannya, bagaimana mereka menilai konten tertentu, dan apa sebenarnya yang mereka cari ketika mencari sesuatu. baru untuk ditonton.
+
+Dengan bantuan analisis data, Netflix kemudian dapat menghubungkan semua titik data individual ini untuk membuat profil tampilan terperinci untuk setiap pengguna. Berdasarkan tren dan pola utama dalam setiap perilaku menonton pengguna, algoritme rekomendasi memberikan saran yang dipersonalisasi (dan cukup tepat) mengenai tontonan berikutnya yang mungkin ingin ditonton pengguna.
+
+Layanan yang dipersonalisasi semacam ini berdampak besar pada pengalaman pengguna; menurut Netflix, lebih dari 75% aktivitas pemirsa didasarkan pada rekomendasi yang dipersonalisasi. Penggunaan analisis data yang kuat ini juga memberikan kontribusi signifikan terhadap keberhasilan bisnis; jika Anda melihat statistik pendapatan dan penggunaannya , Anda akan melihat bahwa Netflix secara konsisten mendominasi pasar streaming global—dan pertumbuhannya dari tahun ke tahun.
+
+Seperti yang dapat Anda lihat dari dua studi kasus ini saja, analisis data bisa menjadi sangat berguna. Untuk studi kasus dunia nyata lainnya, lihat lima contoh bagaimana merek menggunakan analisis data —termasuk bagaimana Coca Cola menggunakan analisis data untuk mendorong retensi pelanggan, dan bagaimana PepsiCo menggunakan data dalam jumlah besar untuk memastikan manajemen rantai pasokan yang efisien.
+
+5. Apa yang dilakukan seorang analis data?
+Jika Anda sedang mempertimbangkan karir sebagai analis data (atau mempertimbangkan untuk mempekerjakan seorang analis data untuk organisasi Anda), Anda mungkin bertanya-tanya tugas dan tanggung jawab apa yang termasuk dalam jabatan analis data.
+
+Anda dapat mengetahui berbagai hal yang mereka lakukan dalam panduan khusus kami tentang apa yang dilakukan seorang analis data , namun untuk saat ini mari kita belajar secara singkat dengan mendengar dari seorang profesional dan dengan melihat iklan pekerjaan.
+
+Dalam sebuah wawancara membahas bagaimana sebenarnya rasanya bekerja sebagai analis data , Radi, seorang analis data di CENTOGENE, menjelaskan perannya sebagai berikut:
+
+“Saya suka menganggap analis data sebagai 'penerjemah'. Seseorang yang mampu menerjemahkan angka ke dalam bahasa Inggris agar perusahaan dapat meningkatkan bisnisnya. Secara pribadi, peran saya sebagai analis data melibatkan pengumpulan, pemrosesan, dan melakukan analisis data statistik untuk membantu perusahaan saya meningkatkan produk mereka.”
+
+Memeriksa iklan pekerjaan analis data di kehidupan nyata
+Iklan pekerjaan untuk Analis Data Pascasarjana yang diposting oleh Pareto Law menggambarkan posisi tersebut sebagai “peluang unik untuk bekerja di semua bidang sebagai perantara pengetahuan, bertindak sebagai perantara antara klien dan pakar, menghubungkan pelanggan dengan organisasi.”
+
+Dalam iklan mereka untuk Analis Data, Shaw Media menulis: “Peran ini terutama akan berfokus pada mengubah kumpulan data menjadi arah yang dapat ditindaklanjuti untuk redaksi kami. Anda akan bertanggung jawab lebih dari sekadar memantau analitik kami—tetapi juga berkomunikasi dengan ruang redaksi tentang apa yang berhasil dan apa yang tidak, memperbarui dasbor kami, mengidentifikasi tren, dan memastikan kami selalu menjaga privasi data.”
+
+Tugas dan tanggung jawab
+Seperti yang Anda lihat, peran analis data memiliki arti yang berbeda bagi perusahaan yang berbeda. Namun, ada beberapa benang merah yang akan Anda temukan di sebagian besar deskripsi pekerjaan analis data. Berdasarkan iklan pekerjaan nyata, berikut beberapa tugas dan tanggung jawab umum seorang analis data:
+
+Kelola penyampaian survei kepuasan pengguna dan laporkan hasilnya menggunakan perangkat lunak visualisasi data
+Bekerja dengan pemilik lini bisnis untuk mengembangkan persyaratan, menentukan metrik keberhasilan, mengelola dan melaksanakan proyek analitis, dan mengevaluasi hasil
+Pantau praktik, proses, dan sistem untuk mengidentifikasi peluang perbaikan
+Berkomunikasi dan berkolaborasi secara proaktif dengan pemangku kepentingan, unit bisnis, tim teknis, dan tim pendukung untuk mendefinisikan konsep dan menganalisis kebutuhan dan persyaratan fungsional
+Terjemahkan pertanyaan penting ke dalam tugas analitis yang konkrit
+Kumpulkan data baru untuk menjawab pertanyaan klien, menyusun dan mengatur data dari berbagai sumber
+Terapkan teknik dan alat analitis untuk mengekstrak dan menyajikan wawasan baru kepada klien menggunakan laporan dan/atau dasbor interaktif
+Menyampaikan konsep dan data yang kompleks ke dalam visualisasi
+Berkolaborasi dengan data scientist dan anggota tim lainnya untuk menemukan solusi produk terbaik
+Rancang, buat, uji, dan pelihara kode backend
+Tetapkan proses data, tentukan kriteria kualitas data, dan terapkan proses kualitas data
+Ambil kepemilikan atas basis kode, termasuk saran untuk perbaikan dan pemfaktoran ulang
+Membangun model dan alat validasi data untuk memastikan data yang dicatat akurat
+Bekerja sebagai bagian dari tim untuk mengevaluasi dan menganalisis data penting yang akan digunakan untuk membentuk strategi bisnis masa depan
+Untuk mempelajari lebih lanjut tentang jenis tugas yang dapat Anda lakukan sebagai analis data, ada baiknya menelusuri iklan pekerjaan di berbagai industri yang berbeda. Telusuri “analis data” di situs seperti Indeed , LinkedIn , dan icrunchdata.com dan Anda akan segera merasakan apa saja yang diperlukan dalam peran tersebut.
+
+Bacaan terkait: Mengapa menjadi analis data?
+
+6. Proses apa saja yang biasanya diikuti oleh seorang analis data?
+Sekarang kita telah menetapkan peran analis data secara keseluruhan, mari kita telusuri proses analisis data yang sebenarnya. Di sini, kami akan menguraikan lima langkah utama yang akan diikuti oleh seorang analis data ketika menangani proyek baru:
+
+Lima langkah dalam proses analisis data: Tentukan pertanyaan, kumpulkan data, bersihkan data, analisis data, dan visualisasikan serta bagikan temuan Anda
+Langkah 1: Tentukan pertanyaan yang ingin Anda jawab
+Langkah pertama adalah mengidentifikasi alasan Anda melakukan analisis dan pertanyaan atau tantangan apa yang ingin Anda pecahkan . Pada tahap ini, Anda akan mengambil masalah yang terdefinisi dengan jelas dan menghasilkan pertanyaan atau hipotesis relevan yang dapat Anda uji. Anda kemudian perlu mengidentifikasi jenis data apa yang Anda perlukan dan dari mana data tersebut berasal.
+
+Misalnya: Potensi masalah bisnis adalah pelanggan tidak berlangganan keanggotaan berbayar setelah uji coba gratisnya berakhir. Pertanyaan penelitian Anda mungkin adalah “Strategi apa yang dapat kita gunakan untuk meningkatkan retensi pelanggan?”
+
+Langkah 2: Kumpulkan datanya
+Dengan memikirkan pertanyaan yang jelas, Anda siap untuk mulai mengumpulkan data . Analis data biasanya mengumpulkan data terstruktur dari sumber primer atau internal, seperti perangkat lunak CRM atau alat pemasaran email.
+
+Mereka mungkin juga beralih ke sumber sekunder atau eksternal, seperti sumber data terbuka . Hal ini mencakup portal pemerintah, alat seperti Google Trends , dan data yang dipublikasikan oleh organisasi besar seperti UNICEF dan Organisasi Kesehatan Dunia.
+
+Langkah 3: Bersihkan data
+Setelah mengumpulkan data, Anda harus menyiapkannya untuk dianalisis—dan ini berarti membersihkan kumpulan data Anda secara menyeluruh . Kumpulan data asli Anda mungkin berisi duplikat, anomali, atau data hilang yang dapat mengubah cara data diinterpretasikan, sehingga semua ini harus dihapus. Pembersihan data bisa menjadi tugas yang memakan waktu, namun penting untuk mendapatkan hasil yang akurat.
+
+Langkah 4: Analisis datanya
+Sekarang untuk analisis sebenarnya! Cara Anda menganalisis data akan bergantung pada pertanyaan yang Anda ajukan dan jenis data yang Anda gunakan, namun beberapa teknik umum mencakup analisis regresi, analisis klaster, dan analisis deret waktu (dan masih banyak lagi).
+
+Kami akan membahas beberapa teknik ini di bagian selanjutnya. Langkah dalam proses ini juga terkait dengan empat jenis analisis yang telah kita bahas di bagian tiga (deskriptif, diagnostik, prediktif, dan preskriptif).
+
+Langkah 5: Visualisasikan dan bagikan temuan Anda
+Langkah terakhir dalam proses ini adalah saat data diubah menjadi wawasan bisnis yang berharga . Bergantung pada jenis analisis yang dilakukan, Anda akan menyajikan temuan Anda sedemikian rupa sehingga orang lain dapat memahaminya—dalam bentuk bagan atau grafik, misalnya.
+
+Pada tahap ini, Anda akan mendemonstrasikan apa yang disampaikan oleh analisis data sehubungan dengan pertanyaan awal atau tantangan bisnis Anda, dan berkolaborasi dengan pemangku kepentingan utama tentang cara untuk melangkah maju. Ini juga saat yang tepat untuk menyoroti keterbatasan analisis data Anda dan mempertimbangkan analisis lebih lanjut yang mungkin dilakukan.
+
+7. Alat dan teknik apa yang digunakan analis data?
+Sama seperti pengembang web, analis data mengandalkan serangkaian alat dan teknik yang berbeda. Jadi apa itu? Mari kita lihat beberapa yang utama:
+
+Teknik analisis data
+Sebelum kami memperkenalkan beberapa teknik analisis data utama, mari kita bedakan dengan cepat antara dua jenis data yang mungkin Anda gunakan: kuantitatif dan kualitatif .
+
+Data kuantitatif pada dasarnya adalah segala sesuatu yang dapat diukur—misalnya, jumlah orang yang menjawab “ya” terhadap pertanyaan tertentu dalam survei, atau jumlah penjualan yang dilakukan pada tahun tertentu. Data kualitatif, di sisi lain, tidak dapat diukur, dan terdiri dari hal-hal seperti apa yang dikatakan orang dalam wawancara atau teks yang ditulis sebagai bagian dari email.
+
+Analis data biasanya bekerja dengan data kuantitatif; namun, ada beberapa peran di luar sana yang juga mengharuskan Anda mengumpulkan dan menganalisis data kualitatif, jadi sebaiknya Anda memahami keduanya. Oleh karena itu, berikut adalah beberapa teknik analisis data yang paling umum:
+
+Ingin tahu tentang karir di Analisis Data?
+Mulailah belajar secara gratis!
+
+Analisis regresi
+Metode ini digunakan untuk memperkirakan atau “memodelkan” hubungan antara sekumpulan variabel.
+
+Anda dapat menggunakan ini untuk melihat apakah variabel tertentu (jumlah pengikut Instagram seorang bintang film dan rata-rata pendapatan kotor lima film terakhirnya) dapat digunakan untuk memprediksi variabel lain secara akurat (apakah film berikutnya akan sukses besar atau tidak). Analisis regresi terutama digunakan untuk membuat prediksi.
+
+Namun, perlu diingat bahwa regresi hanya dapat digunakan untuk menentukan ada atau tidaknya hubungan antara sekumpulan variabel—regresi tidak dapat memberi tahu Anda apa pun tentang sebab dan akibat.
+
+Analisis faktor
+Terkadang dikenal sebagai reduksi dimensi , teknik ini membantu analis data mengungkap variabel mendasar yang mendorong perilaku masyarakat dan pilihan yang mereka buat.
+
+Pada akhirnya, ini memadatkan data dalam banyak variabel menjadi beberapa “variabel super”, membuat data lebih mudah untuk dikerjakan. Misalnya: Jika Anda memiliki tiga variabel berbeda yang mewakili kepuasan pelanggan, Anda dapat menggunakan analisis faktor untuk menyingkat variabel-variabel ini menjadi satu skor kepuasan pelanggan yang mencakup semuanya.
+
+Analisis kelompok
+Kelompok adalah sekelompok pengguna yang memiliki kesamaan karakteristik tertentu dalam jangka waktu tertentu—misalnya, semua pelanggan yang membeli menggunakan perangkat seluler pada bulan Maret dapat dianggap sebagai satu kelompok yang berbeda.
+
+Dalam analisis kelompok, data pelanggan dipecah menjadi kelompok atau kelompok yang lebih kecil; jadi, alih-alih memperlakukan semua data pelanggan secara sama, perusahaan dapat melihat tren dan pola dari waktu ke waktu yang berkaitan dengan kelompok tertentu. Dengan mengenali pola-pola ini, perusahaan kemudian dapat menawarkan layanan yang lebih tepat sasaran.
+
+Analisis klaster
+Teknik ini adalah tentang mengidentifikasi struktur dalam kumpulan data.
+
+Analisis cluster pada dasarnya mengelompokkan data ke dalam kelompok-kelompok yang homogen secara internal dan heterogen secara eksternal—dengan kata lain, objek-objek dalam satu cluster harus lebih mirip satu sama lain dibandingkan dengan objek-objek di cluster lain.
+
+Analisis klaster memungkinkan Anda melihat bagaimana data didistribusikan ke seluruh kumpulan data yang tidak memiliki kelas atau pengelompokan yang telah ditentukan sebelumnya. Dalam pemasaran, misalnya, analisis cluster dapat digunakan untuk mengidentifikasi kelompok sasaran yang berbeda dalam basis pelanggan yang lebih besar.
+
+Analisis deret waktu
+Secara sederhana, data deret waktu adalah rangkaian titik data yang mengukur variabel yang sama pada titik waktu berbeda.
+
+Analisis deret waktu adalah pengumpulan data pada interval tertentu selama periode waktu tertentu untuk mengidentifikasi tren dan siklus, sehingga memungkinkan analis data membuat perkiraan yang akurat untuk masa depan. Jika Anda ingin memprediksi permintaan masa depan untuk produk tertentu, Anda dapat menggunakan analisis deret waktu untuk melihat bagaimana biasanya permintaan produk ini terlihat pada titik waktu tertentu.
+
+Teknik analisis data lainnya
+Ini hanyalah beberapa dari sekian banyak teknik yang akan digunakan oleh analis data, dan kami hanya membahas permukaannya saja dalam hal apa saja yang terlibat dalam setiap teknik dan cara penggunaannya.
+
+Beberapa teknik umum lainnya meliputi:
+
+Simulasi Monte Carlo
+analisis dispersi
+analisis diskriminan
+ analisis teks atau isi (suatu teknik untuk menganalisis data kualitatif)
+Kami telah membahas tujuh teknik analisis data yang paling berguna dalam panduan lengkap ini .
+
+Alat analisis data
+Sekarang mari kita lihat beberapa alat yang mungkin digunakan oleh seorang analis data.
+
+Jika Anda ingin menjadi seorang analis data, Anda harus mahir dalam setidaknya beberapa alat yang tercantum di bawah ini—tetapi, jika Anda belum pernah mendengarnya, jangan biarkan hal itu menghalangi Anda! Seperti kebanyakan hal, memahami alat-alat perdagangan adalah bagian dari kurva pembelajaran.
+
+Inilah yang teratas:
+
+Microsoft Excel
+Excel adalah program perangkat lunak yang memungkinkan Anda mengatur, memformat, dan menghitung data menggunakan rumus dalam sistem spreadsheet.
+
+Selama beberapa dekade, alat ini dapat digunakan oleh analis data untuk menjalankan kueri dasar dan membuat tabel pivot, grafik, dan bagan. Excel juga dilengkapi bahasa pemrograman makro yang disebut Visual Basic for Applications (VBA).
+
+Anda dapat mempelajari seluk beluknya dengan panduan kami tentang fitur analisis data teratas di Microsoft Excel .
+
+Tablo
+Tableau adalah perangkat lunak intelijen bisnis dan analisis data populer yang terutama digunakan sebagai alat untuk visualisasi data .
+
+Analis data menggunakan Tableau untuk menyederhanakan data mentah menjadi dasbor visual, lembar kerja, peta, dan bagan. Hal ini membantu membuat data dapat diakses dan dipahami, sehingga memungkinkan analis data berbagi wawasan dan rekomendasi mereka secara efektif.
+
+SAS
+SAS adalah paket perangkat lunak berbasis perintah yang digunakan untuk melakukan analisis statistik tingkat lanjut dan visualisasi data.
+
+Menawarkan beragam metode dan algoritme statistik, opsi analisis dan keluaran yang dapat disesuaikan, dan grafik berkualitas publikasi, SAS adalah salah satu paket perangkat lunak yang paling banyak digunakan di industri.
+
+Penambang Cepat
+Ini adalah paket perangkat lunak yang digunakan untuk penambangan data  (mengungkap pola), penambangan teks, analisis prediktif, dan pembelajaran mesin.
+
+Digunakan oleh analis data dan ilmuwan data, RapidMiner hadir dengan beragam fitur—termasuk pemodelan data, validasi, dan otomatisasi.
+
+Kekuatan BI
+Power BI adalah solusi analisis bisnis yang memungkinkan Anda memvisualisasikan data dan berbagi wawasan di seluruh organisasi Anda.
+
+Mirip dengan Tableau, Power BI terutama digunakan untuk visualisasi data. Meskipun Tableau dibuat untuk analis data, Power BI adalah alat intelijen bisnis yang lebih umum.
+
+8. Keterampilan apa yang Anda butuhkan untuk menjadi seorang analis data?
+Selain menguasai alat dan teknik yang telah kita jelajahi sejauh ini, analis data juga diharapkan menunjukkan keterampilan dan kemampuan tertentu, yang sering kali mereka pelajari saat mempelajari kursus di sekolah analisis data . Berikut adalah beberapa keterampilan keras dan lunak terpenting yang Anda perlukan untuk menjadi seorang analis data:
+
+Keterampilan keras
+Kemampuan matematika dan statistik
+Analis data menghabiskan sebagian besar waktunya bekerja dengan angka, jadi sudah jelas bahwa Anda memerlukan otak matematika!
+
+Pengetahuan tentang bahasa pemrograman seperti SQL, Oracle, dan Python
+Seperti yang telah kita lihat, analis data mengandalkan sejumlah bahasa pemrograman untuk melaksanakan pekerjaannya. Ini mungkin tampak menakutkan pada awalnya, tetapi ini bukan sesuatu yang tidak bisa dipelajari seiring berjalannya waktu.
+
+Pola pikir analitis
+Tidaklah cukup hanya menghitung angka dan membagikan temuan Anda; analis data harus mampu memahami apa yang terjadi dan menggali lebih dalam jika diperlukan. Itu semua ada pada namanya—pola pikir analitis adalah suatu keharusan!
+
+Keterampilan lunak
+Keterampilan pemecahan masalah yang tajam
+Analis data memiliki beragam alat dan teknik yang dapat mereka gunakan, dan bagian penting dari pekerjaannya adalah mengetahui apa yang harus digunakan dan kapan.
+
+Ingat: analisis data adalah tentang menjawab pertanyaan dan memecahkan tantangan bisnis, dan itu memerlukan keterampilan pemecahan masalah yang tajam.
+
+Keterampilan komunikasi yang sangat baik
+Setelah Anda mengumpulkan data untuk mendapatkan wawasan yang berharga, penting untuk membagikan temuan Anda dengan cara yang menguntungkan bisnis.
+
+Analis data bekerja sama erat dengan pemangku kepentingan bisnis utama, dan mungkin bertanggung jawab untuk berbagi dan menyajikan wawasan mereka kepada seluruh perusahaan. Jadi, jika Anda berpikir untuk menjadi seorang analis data, penting untuk memastikan bahwa Anda merasa nyaman dengan aspek pekerjaan ini.
+
+Pelajari lebih lanjut dalam panduan ini: Apa saja keterampilan utama yang dibutuhkan setiap analis data?
+
+9. Kursus analisis data apa saja yang terbaik?
+Setelah membaca tentang karir di bidang analisis data dan keterampilan yang harus Anda kuasai, Anda mungkin bertanya-tanya: Bagaimana saya bisa menjadi seorang analis data?
+
+Seiring dengan semakin banyaknya perusahaan yang menyadari pentingnya data, analisis data telah menjadi sebuah kata kunci. Oleh karena itu, kami telah melihat banyak kursus dan program bermunculan yang berfokus pada pengajaran analisis data dari awal dan, pada akhirnya, memfasilitasi perubahan karier di bidang tersebut.
+
+Ini saat yang tepat untuk menjadi seorang analis data yang bercita-cita tinggi! Jadi kursus apa yang layak dipertimbangkan? Kami telah menguraikan tiga kursus analisis data terbaik di bawah ini—untuk perbandingan yang lebih luas, lihat daftar kursus analisis data ini .
+
+Program Analisis Data CareerFoundry
+
+CareerFoundry menawarkan program online dengan kecepatan fleksibel yang dilengkapi dengan mentor tatap muka yang ahli, tutor pribadi, pelatihan karier, dan jaminan pekerjaan. Anda tidak memerlukan pengetahuan atau pengalaman sebelumnya, dan Anda dapat mencoba kursus pengantar singkat gratis .
+
+Kamp Pelatihan Analisis Data Springboard
+
+Opsi online lainnya yang juga dilengkapi dengan jaminan pekerjaan. Berbeda dengan program CareerFoundry, bootcamp ini dirancang untuk orang-orang yang dapat menunjukkan bakat berpikir kritis dan memiliki pengalaman kerja selama dua tahun.
+
+Kredensial Certified Analytics Professional (CAP).
+
+Ini adalah sertifikasi umum yang ditawarkan oleh INFORMS , asosiasi internasional terkemuka untuk para profesional riset operasi dan analitik. Jika Anda sudah memiliki pengalaman dalam analisis data, kredensial CAP dapat membantu mensertifikasi dan memformalkan keterampilan Anda.
+
+10. Bagaimana masa depan analisis data?
+Data telah menjadi salah satu komoditas yang paling melimpah—dan berharga—di pasar saat ini; Anda pasti sering mendengar tentang data besar dan betapa pentingnya hal itu .
+
+Namun, meskipun sering kali diklaim bahwa data adalah minyak baru , penting untuk menyadari bahwa data hanya berharga jika data tersebut dimurnikan . Nilai data yang dimiliki perusahaan bergantung pada apa yang mereka lakukan terhadap data tersebut—dan itulah sebabnya peran analis data menjadi semakin penting.
+
+Namun, besarnya nilai data (dan analisis data) tercermin dari lonjakan pasar dalam beberapa tahun terakhir: pada tahun 2022, pasar analisis data global bernilai $272 miliar USD — lebih dari lima kali lipat nilainya. pada tahun 2015! Dan hal ini tidak menunjukkan tanda-tanda akan berhenti, karena diperkirakan akan meningkat menjadi $745 miliar USB pada tahun 2030.
+
+Jadi apa artinya ini dalam kaitannya dengan prospek karir? Pada saat artikel ini ditulis, pencarian pekerjaan analis data di Indeed.com menghasilkan lebih dari 20.000 lowongan di Amerika Serikat saja. Dan kita memperkirakan angka ini akan meningkat: menurut laporan yang diterbitkan oleh Forum Ekonomi Dunia , analis data akan menjadi salah satu profesional yang paling banyak dicari pada tahun 2020 dan seterusnya. Tidak mengherankan jika data menjadi salah satu pekerjaan masa depan .
+
+Bacaan terkait:  Apa saja pekerjaan analisis data dengan bayaran tertinggi?
+
+Dan semua ini terjadi sebelum kami menyebutkan apa yang pasti akan menentukan beberapa tahun ke depan: AI dalam analisis data . Baik sebagai insinyur pembelajaran mesin atau mereka yang bekerja dengan pemrosesan bahasa alami, analisis data telah terjalin dengan AI sejak awal.
+
+Jika Anda mempertimbangkan untuk berkarir di bidang analisis data, saat ini adalah saat yang paling tepat. Ketika pasar tumbuh dan bisnis menghadapi kekurangan keterampilan yang signifikan , analis data akan semakin mendapat manfaat dari tingginya permintaan, beragamnya peluang, dan kompensasi yang kompetitif.
