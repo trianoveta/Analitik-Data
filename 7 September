@@ -12,9 +12,6 @@ Analisis data membantu Anda memahami masa lalu dan memprediksi tren dan perilaku
 Bagaimana bisnis menggunakan analisis data
 Berbekal wawasan yang diambil dari data, bisnis dan organisasi dapat mengembangkan pemahaman yang lebih mendalam tentang audiens, industri, dan perusahaan mereka secara keseluruhan—dan, sebagai hasilnya, lebih siap untuk mengambil keputusan dan membuat rencana ke depan. .
 
-Mengerti lebih baik dengan menonton? Pelajari lebih lanjut dasar-dasar analisis data dari Will dalam video berikut:
-
-
 2. Apa perbedaan antara analisis data dan ilmu data?
 Anda akan menemukan bahwa istilah “ilmu data” dan “analisis data” cenderung digunakan secara bergantian. Namun, keduanya adalah dua bidang yang berbeda dan menunjukkan dua jalur karier yang berbeda. Terlebih lagi, masing-masing mempunyai dampak yang sangat berbeda terhadap bisnis atau organisasi.
 
@@ -44,30 +41,20 @@ Sekarang kita memiliki definisi kerja analisis data, mari kita jelajahi empat je
 Empat jenis utama analisis data: Deskriptif, diagnostik, prediktif, dan preskriptif
 Analisis deskriptif
 Analisis deskriptif adalah jenis analisis sederhana tingkat permukaan yang melihat apa yang terjadi di masa lalu. Dua teknik utama yang digunakan dalam analisis deskriptif adalah agregasi data dan penambangan data—jadi, analis data pertama-tama mengumpulkan data dan menyajikannya dalam format ringkasan (itulah bagian agregasi) dan kemudian “menambang” data untuk menemukan pola.
-
 Data tersebut kemudian disajikan sedemikian rupa sehingga mudah dipahami oleh khalayak luas (bukan hanya pakar data). Penting untuk dicatat bahwa analitik deskriptif tidak mencoba menjelaskan data historis atau membangun hubungan sebab-akibat; pada tahap ini, yang penting hanyalah menentukan dan mendeskripsikan “apa”. Analisis deskriptif mengacu pada konsep statistik deskriptif .
 
 Analisis diagnostik
 Analisis deskriptif melihat pada “apa”, sedangkan analisis diagnostik mengeksplorasi “mengapa” . Saat menjalankan analitik diagnostik, analis data pertama-tama akan berusaha mengidentifikasi anomali dalam data—yaitu, segala sesuatu yang tidak dapat dijelaskan oleh data yang ada di depannya. Misalnya: Jika data menunjukkan terjadi penurunan penjualan secara tiba-tiba pada bulan Maret, analis data perlu menyelidiki penyebabnya.
-
 Untuk melakukan hal ini, mereka akan memulai apa yang dikenal sebagai fase penemuan, yaitu mengidentifikasi sumber data tambahan yang mungkin memberi tahu mereka lebih banyak tentang mengapa anomali tersebut muncul. Terakhir, analis data akan mencoba mengungkap hubungan sebab akibat—misalnya, melihat peristiwa apa pun yang mungkin berkorelasi atau berhubungan dengan penurunan penjualan. Pada tahap ini, analis data dapat menggunakan teori probabilitas, analisis regresi, pemfilteran, dan analisis data deret waktu.
-
-Pelajari lebih lanjut di panduan kami untuk analisis diagnostik .
 
 Analisis prediktif
 Seperti namanya, analisis prediktif mencoba memprediksi apa yang mungkin terjadi di masa depan. Di sinilah para analis data mulai menghasilkan wawasan berbasis data yang dapat ditindaklanjuti dan dapat digunakan oleh perusahaan untuk menentukan langkah selanjutnya.
-
 Analisis prediktif memperkirakan kemungkinan hasil di masa depan berdasarkan data historis dan teori probabilitas, dan meskipun analisis ini tidak pernah sepenuhnya akurat, analisis ini menghilangkan banyak dugaan dalam pengambilan keputusan bisnis utama.
-
 Analisis prediktif dapat digunakan untuk memperkirakan segala macam hasil—mulai dari produk apa yang paling populer pada waktu tertentu, hingga seberapa besar kemungkinan peningkatan atau penurunan pendapatan perusahaan dalam periode tertentu. Pada akhirnya, analisis prediktif digunakan untuk meningkatkan peluang bisnis untuk “mencapai sasaran” dan mengambil tindakan yang paling tepat.
-
-Pelajari lebih lanjut tentang ini di panduan lengkap kami untuk analisis prediktif .
 
 Analisis preskriptif
 Berdasarkan analisis prediktif, analisis preskriptif memberikan saran mengenai tindakan dan keputusan yang harus diambil .
-
 Dengan kata lain, analisis preskriptif menunjukkan kepada Anda bagaimana Anda dapat memanfaatkan hasil yang telah diprediksi. Saat melakukan analisis preskriptif, analis data akan mempertimbangkan serangkaian kemungkinan skenario dan menilai berbagai tindakan yang mungkin diambil perusahaan.
-
 Analisis preskriptif adalah salah satu jenis analisis yang lebih kompleks, dan mungkin melibatkan penggunaan algoritme, pembelajaran mesin, dan prosedur pemodelan komputasi. Namun, penggunaan analitik preskriptif yang efektif dapat berdampak besar pada proses pengambilan keputusan perusahaan dan, pada akhirnya, pada keuntungan perusahaan.
 
 Jenis analisis yang Anda lakukan juga akan bergantung pada jenis data yang Anda gunakan. Jika Anda belum terbiasa, ada baiknya mempelajari empat tingkat pengukuran data: nominal, ordinal, interval, dan rasio .
