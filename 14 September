@@ -1,0 +1,55 @@
+web crawling, memilih 1 url lalu di lanjutkan ke
+
+web scraping, 
+
+Dengan web scraping, seseorang dapat dengan mudah mengumpulkan data pelanggan dalam menentukan strategi pemasaran yang sesuai. 
+Web scraping juga dapat kita gunakan untuk mengumpulkan data lain seperti keperluan untuk menganalisa data kompetitor. 
+Karena tidak peduli jenis bisnisnya, kita akan selalu perlu melihat bagaimana kompetitor kita bekerja.
+
+Maka, dapat dikatakan Web Crawling adalah proses mengunjungi situs web, membaca halaman web dan menemukan informasi dari suatu web, 
+mengindeks semua kata dalam sebuah dokumen, dan menambahkan nya ke database.
+Web Scraping adalah teknik mengambil/mengekstrak data dari suatu website secara spesifik. 
+Spesifik maksudnya yaitu ketika kita hanya ingin mengambil data atau informasi tertentu dari suatu websites. 
+Contoh, apabila dari website imdb saya hanya menginginkan data pada tab MOST POPULAR.
+Salah satu cara melakukan web scraping adalah dengan menggunakan bahasa pemrograman Python. 
+Dengan menggunakan Python, kita dapat melakukan scraping dengan cepat dan mudah, tentunya dengan didasari pengetahuan pemrograman. 
+Sebagai contoh, dengan menggunakan library Selenium, saya berhasil mengumpulkan data Top Rated Movies dari situs IMBD.com. 
+
+Web crawling adalah proses di mana mesin pencari mengirimkan tim robot (crawler atau spider) dalam mencari dan memindai konten yang berada di halaman website. 
+Di mana konten ini dapat berupa artikel, gambar, video, ataupun dokumen.
+Alat yang digunakan dalam web crawling adalah web crawler atau sering juga disebut sebagai web spider. 
+Alat ini akan menemukan konten terbaru dengan mengidentifikasi dan merekam setiap link yang ditemukannya pada halaman yang telah dipindai, lalu memasukkannya ke dalam indeks berupa database yang berisi URL.
+Ketika pengguna mencari sebuah konten di search engine dengan keyword tertentu, search engine akan mencarinya di indeks dan menentukan konten mana yang paling sesuai untuk pengguna tersebut. 
+Adapun beberapa contoh tools populer untuk web crawling adalah Googlebot, HTTrack, Cyotek Webcopy, dan Webhose.
+
+Ada tiga hal yang biasanya menjadi pertimbangan agar proses crawling dapat berjalan lebih efektif.
+1. Tingkat Relevansi Halaman
+Web crawler menentukan halaman mana yang perlu di-crawling berdasarkan seberapa penting dan relevan halaman tersebut. 
+Halaman penting biasanya berisi konten atau informasi yang dibutuhkan oleh banyak orang. 
+Sehingga, mesin pencari akan memasukkannya dalam indeks agar orang-orang lebih mudah dalam mengaksesnya.
+2. Kunjungan Rutin
+Konten-konten yang ada di internet selalu berganti setiap detiknya. Entah karena diperbarui, dihapus, atau dipindah ke tempat lain.
+Karena itu, web crawler perlu mengunjungi berbagai halaman website secara rutin untuk memastikan versi yang berada di indeks adalah versi yang terbaru. 
+Terutama pada halaman yang penting dan banyak pengunjungnya, di mana bisa dipastikan bahwa web crawler akan sering melakukan kunjungan rutin ke situs tersebut.
+3. Sesuai Keinginan Robots.txt
+Web crawler juga menenentukan halaman mana yang perlu di-crawling berdasarkan keinginan robots.txt. 
+Sehingga, sebelum crawling ke suatu website, web crawler akan mengecek robots.txt dari website itu terlebih dahulu.
+Robots.txt sendiri merupakan file di sebuah website yang berisi informasi mengenai halaman mana yang boleh diindeks dan yang tak boleh diindeks.
+
+Perbedaan Web Crawling dengan Web Scraping
+Beberapa orang sering keliru dan menyamakan web crawling dengan web scraping. Sekilas, kedua istilah ini memang terdengar mirip.
+Namun, keduanya sebenarnya berbeda, baik dari segi definisi, fokus dan cakupan, tujuan, pengetahuan terhadap website, hingga output-nya.
+1. Definisi
+Secara definisi, web crawling adalah proses membaca dan menyimpan seluruh konten ke dalam sebuah website dengan tujuan pengarsipan atau indexing. 
+Sementara web scraping adalah proses mengekstrasi data dari sebuah website ke format file yang baru.
+2. Fokus dan Cakupan
+Fokus dan cakupan web crawling lebih besar karena lingkupnya adalah seluruh halaman dan website yang ada di internet, sedangkan lingkup web scraping hanya pada kumpulan data spesifik dari sebuah website.
+3. Tujuan
+Web crawling bertujuan mencari dan menemukan URL atau link di internet, sedangkan web scraping bertujuan menghasilkan data sebuah website target untuk dianalisis lebih jauh.
+4. Pengetahuan Terhadap Website
+Web crawling tidak perlu tahu URL atau domain yang ingin di-crawling karena tujuannya memang untuk mencari, menemukan, dan mengindeks URL tersebut. 
+Sementara web scraping tahu di domain mana data akan diambil dari sebuah website.
+5. Output
+Output dari web crawling adalah daftar URL yang telah di-crawl, sedangkan output web scraping adalah data field seperti nama produk, harga produk, dan ukuran.
+
+
